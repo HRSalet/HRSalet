@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Data Science<br>🎲 Fun fact: My favorite is family, mobile, food, and laptop.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Data Science<br>🎲 Fun fact: I love my family, friends, food, mobile, and laptop.</p>
 
 ###
 
